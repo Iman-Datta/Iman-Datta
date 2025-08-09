@@ -1,4 +1,4 @@
-### Hi there I'm [Iman!](https://sdnitrogen.github.io)👋
+### Hi there I'm [Iman!]👋
 
 # 💫 About Me:
 🔭 I’m currently working on Django backend development with Python and integrating AJAX for dynamic web apps<br>👯 I’m looking to collaborate on full-stack projects and AI-related initiatives<br>🤝 I’m looking for help with deepening my AI knowledge and building intelligent applications<br>🌱 I’m currently learning Data Structures & Algorithms in C++ and foundational AI/ML concepts<br>💬 Ask me about Python, Django, AJAX, C++ DSA, and AI basics<br>⚡ Fun fact: I’m passionate about becoming an AI engineer and using tech to create smart solutions!
