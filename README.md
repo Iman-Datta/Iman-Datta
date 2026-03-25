@@ -119,7 +119,8 @@ Building technology that solves real problems and feels intuitive to use
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer" />
 
-*"Build tech that feels alive — smart, helpful, and intuitive."* &nbsp;✦
+<font color="#a78bfa"><i>"Build tech that feels alive — smart, helpful, and intuitive."</i></font> &nbsp;✦
+<br/>
 <br/>
 [![](https://visitcount.itsvg.in/api?id=Iman-Datta&icon=10&color=7)](https://visitcount.itsvg.in)
 </div>
