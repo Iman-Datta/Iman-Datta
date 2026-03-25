@@ -1,44 +1,66 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Iman%20Datta&fontSize=64&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20•%20AI%20Engineer%20in%20Progress%20•%20DSA%20Enthusiast&descAlignY=65&descSize=16&descColor=c4b5fd&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=260&section=header&text=Iman%20Datta&fontSize=72&fontColor=ffffff&fontAlignY=42&desc=%3E_%20Full-Stack%20Developer%20%7C%20AI%20Engineer%20in%20Progress%20%7C%20DSA%20Enthusiast&descAlignY=62&descSize=14&descColor=c4b5fd&animation=fadeIn" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&pause=900&color=A78BFA&center=true&vCenter=true&width=700&height=50&duration=3000&fade=true&lines=building+things+that+feel+alive;React+%7C+Django+%7C+Python+%7C+C%2B%2B;ai_engineer.exe+--loading+87%25;never+stop+shipping" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&height=40&lines=building+things+that+feel+alive...;React+%7C+Django+%7C+Python+%7C+C%2B%2B;ai_engineer.exe+--loading+%5B%23%23%23%23%23%23%23%23..%5D+87%25;never+stop+shipping+%E2%80%94+git+push+origin+main" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:24243e&height=3&animation=fadeIn" />
+![visitors](https://komarev.com/ghpvc/?username=Iman-Datta&label=visitors&color=7c3aed&style=flat-square)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iman-datta-161615307)
+&nbsp;&nbsp;
+[![Instagram](https://img.shields.io/badge/%20Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/i_datta_)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/%20Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dattaiman56@gmail.com)
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=2&width=60%25" />
 </div>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Iman-Datta&label=Visitors&color=7c3aed&style=flat-square)](https://github.com/Iman-Datta)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iman-datta-161615307)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dattaiman56@gmail.com)
+<div align="center">
 
----
+### <font color="#a78bfa">WHOAMI</font>
 
-## &nbsp;〔 whoami 〕
+<p>
+<b><font color="#c4b5fd">Full-Stack Developer focusing on AI Engineering</font></b><br/>
+<font color="#9d88d0">Kolkata, India</font>
+</p>
 
-<table border="0" width="100%"><tr><td>
+<p>
+<font color="#d6d1ff">
+Focused on building real-world, problem-solving systems.<br/>
+Interested in backend development and system design.
+</font>
+</p>
 
-| | |
-|:--|:--|
-| `NAME` | Iman Datta |
-| `LOCATION` | Kolkata, India |
-| `ROLE` | Full-Stack Developer &nbsp;→&nbsp; AI Engineer *(in progress)* |
-| `BUILDING` | React + AJAX dynamic web apps &nbsp;·&nbsp; TypeScript frontends |
-| `LEARNING` | DSA in C++ &nbsp;·&nbsp; AI/ML fundamentals &nbsp;·&nbsp; React ecosystem |
-| `SEEKING` | Full-stack collabs &nbsp;·&nbsp; IoT &amp; AI-driven ideas |
-| `SUPERPOWER` | *"Making technology feel intuitive, alive, and human"* |
+<p>
+<font color="#d6d1ff">
+Currently working on self-hosted infrastructure projects,<br/>
+including a home server built with Raspberry Pi and Linux.
+</font>
+</p>
 
-</td></tr></table>
+<p>
+<font color="#d6d1ff">
+Continuously learning Data Structures, Algorithms, and AI/ML.
+</font>
+</p>
+
+<p>
+<font color="#d6d1ff">
+Open to opportunities in backend systems, IoT, and AI-driven solutions.
+</font>
+</p>
+
+<p>
+<i><font color="#a78bfa">
+Building technology that solves real problems and feels intuitive to use
+</font></i>
+</p>
 
 </div>
-
----
 
 ## Tech Arsenal
 
