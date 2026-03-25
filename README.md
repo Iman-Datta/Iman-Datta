@@ -1,43 +1,103 @@
-### Hi I'm Iman!👋
+<div align="center">
 
-# 💫 About Me
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Iman%20Datta&fontSize=64&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20•%20AI%20Engineer%20in%20Progress%20•%20DSA%20Enthusiast&descAlignY=65&descSize=16&descColor=c4b5fd&animation=fadeIn" />
 
-🔭 I’m currently working on **React frontend** with Python and integrating **AJAX** for dynamic web apps  
-👨‍💻 I also build **frontends with React + TypeScript**, focusing on clean UI and smooth user experience  
-👯 I’m looking to collaborate on **full-stack projects, IoT ideas, and AI-driven applications**  
-🤝 I’m seeking guidance to deepen my **AI/ML knowledge** and build practical intelligent systems  
-🌱 Currently learning **Data Structures & Algorithms in C++**, **React ecosystem**, and foundational **AI/ML concepts**  
-💬 Ask me about **Python, Django, React, AJAX, C++, DSA, and AI basics**  
-⚡ Fun fact: I’m passionate about becoming an **AI engineer** and building tech that feels *alive* — smart, helpful, and intuitive!
+<br/>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&pause=900&color=A78BFA&center=true&vCenter=true&width=700&height=50&duration=3000&fade=true&lines=building+things+that+feel+alive;React+%7C+Django+%7C+Python+%7C+C%2B%2B;ai_engineer.exe+--loading+87%25;never+stop+shipping" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_datta_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/iman-datta-161615307) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dattaiman56@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-- 💻 &nbsp; Programming languages<br><br>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-- 🌐 &nbsp; Web development<br><br>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
- ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-- 🛢 &nbsp; Database<br><br>
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-- 🖥 &nbsp; Design tools<br><br>
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-- 📊   Data Science & Machine Learning<br><br>
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-- ⚙️ &nbsp; Developer tools<br><br>
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Iman-Datta&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Iman-Datta&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Iman-Datta&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:24243e&height=3&animation=fadeIn" />
+
+</div>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Iman-Datta&label=Visitors&color=7c3aed&style=flat-square)](https://github.com/Iman-Datta)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iman-datta-161615307)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dattaiman56@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Iman-Datta&icon=10&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## &nbsp;〔 whoami 〕
+
+<table border="0" width="100%"><tr><td>
+
+| | |
+|:--|:--|
+| `NAME` | Iman Datta |
+| `LOCATION` | Kolkata, India |
+| `ROLE` | Full-Stack Developer &nbsp;→&nbsp; AI Engineer *(in progress)* |
+| `BUILDING` | React + AJAX dynamic web apps &nbsp;·&nbsp; TypeScript frontends |
+| `LEARNING` | DSA in C++ &nbsp;·&nbsp; AI/ML fundamentals &nbsp;·&nbsp; React ecosystem |
+| `SEEKING` | Full-stack collabs &nbsp;·&nbsp; IoT &amp; AI-driven ideas |
+| `SUPERPOWER` | *"Making technology feel intuitive, alive, and human"* |
+
+</td></tr></table>
+
+</div>
+
+---
+
+## Tech Arsenal
+
+<table>
+<tr>
+<td><strong>Languages</strong></td>
+<td><img src="https://skillicons.dev/icons?i=c,cpp,python,js,java" /></td>
+</tr>
+
+<tr>
+<td><strong>Web Development</strong></td>
+<td><img src="https://skillicons.dev/icons?i=react,tailwind,django,nodejs,flask,html,css" /></td>
+</tr>
+
+<tr>
+<td><strong>Database</strong></td>
+<td><img src="https://skillicons.dev/icons?i=postgres,mongodb" /></td>
+</tr>
+
+<tr>
+<td><strong>AI / Machine Learning</strong></td>
+<td><img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" /></td>
+</tr>
+
+<tr>
+<td><strong>Tools</strong></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,postman,vscode" /></td>
+</tr>
+
+<tr>
+<td><strong>Cloud & Deployment</strong></td>
+<td><img src="https://skillicons.dev/icons?i=linux,raspberrypi,docker,vercel" /></td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+## &nbsp;GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Iman-Datta&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github&title_color=a78bfa&icon_color=a78bfa" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iman-Datta&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&title_color=a78bfa" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iman-Datta&theme=tokyonight&hide_border=true&border_radius=12&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="58%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Iman-Datta&theme=tokyo-night&hide_border=true&radius=10&color=a78bfa&line=a78bfa&point=ffffff" width="96%"/>
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer" />
+
+*"Build tech that feels alive — smart, helpful, and intuitive."* &nbsp;✦
+<br/>
+[![](https://visitcount.itsvg.in/api?id=Iman-Datta&icon=10&color=7)](https://visitcount.itsvg.in)
+</div>
