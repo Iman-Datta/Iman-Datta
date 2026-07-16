@@ -101,9 +101,7 @@ Building technology that solves real problems and feels intuitive to use
 <div align="center">
 <h2 align="center">GitHub Stats</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iman-Datta&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&title_color=a78bfa" height="170" />
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iman-Datta&theme=tokyonight&hide_border=true&border_radius=12&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="58%" />
