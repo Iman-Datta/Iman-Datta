@@ -24,43 +24,39 @@
 ### <font color="#a78bfa">WHOAMI</font>
 
 <p>
-<b><font color="#c4b5fd">Full-Stack Developer focusing on AI Engineering</font></b><br/>
+<b><font color="#c4b5fd">Full-Stack Developer | Backend & AI Engineering</font></b><br/>
 <font color="#9d88d0">Kolkata, India</font>
 </p>
 
 <p>
 <font color="#d6d1ff">
-Focused on building real-world, problem-solving systems.<br/>
-Interested in backend development and system design.
+Currently building <b>Axon</b>, a Git-aware collaborative project management platform with GitHub integration, real-time collaboration, and scalable backend architecture.
 </font>
 </p>
 
 <p>
 <font color="#d6d1ff">
-Currently working on self-hosted infrastructure projects,<br/>
-including a home server built with Raspberry Pi and Linux.
+Focused on backend development, system design, distributed systems, and building scalable software that solves real-world problems.
 </font>
 </p>
 
 <p>
 <font color="#d6d1ff">
-Continuously learning Data Structures, Algorithms, and AI/ML.
+Maintaining a self-hosted Linux homelab on a Mini PC while exploring Docker, networking, and infrastructure.
 </font>
 </p>
 
 <p>
 <font color="#d6d1ff">
-Open to opportunities in backend systems, IoT, and AI-driven solutions.
+Continuously learning Data Structures & Algorithms, AI/ML, and modern software architecture.
 </font>
 </p>
 
 <p>
 <i><font color="#a78bfa">
-Building technology that solves real problems and feels intuitive to use
+Building reliable software with simplicity, scalability, and automation in mind.
 </font></i>
 </p>
-
-</div>
 
 ## Tech Arsenal
 
