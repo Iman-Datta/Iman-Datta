@@ -21,7 +21,7 @@
 
 <div align="center">
 
-### <font color="#a78bfa">WHOAMI</font>
+### <font color="#a78bfa">WHOAMI </font>
 
 <p>
 <b><font color="#c4b5fd">Full-Stack Developer | Backend & AI Engineering</font></b><br/>
