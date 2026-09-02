@@ -21,7 +21,7 @@
 
 <div align="center">
 
-### <font color="#a78bfa">WHOAMI </font>
+### <font color="#a78bfa">WHOAMI</font>
 
 <p>
 <b><font color="#c4b5fd">Full-Stack Developer | Backend & AI Engineering</font></b><br/>
@@ -30,33 +30,46 @@
 
 <p>
 <font color="#d6d1ff">
-Currently building <b>Axon</b>, a Git-aware collaborative project management platform with GitHub integration, real-time collaboration, and scalable backend architecture.
+Full-stack developer focused on <b>backend engineering, system design, AI/ML, and scalable software development</b>, with a strong interest in building reliable systems that solve real-world problems.
 </font>
 </p>
 
 <p>
 <font color="#d6d1ff">
-Focused on backend development, system design, distributed systems, and building scalable software that solves real-world problems.
+Recently completed <b>Axon</b>, a Git-aware collaborative project management platform featuring GitHub integration, real-time collaboration, role-based architecture, and a scalable backend.
 </font>
 </p>
 
 <p>
 <font color="#d6d1ff">
-Maintaining a self-hosted Linux homelab on a Mini PC while exploring Docker, networking, and infrastructure.
+Currently working as a <b>Software Development Intern at LovoPet</b>, contributing to the development of production-oriented software and gaining hands-on experience in professional engineering workflows.
 </font>
 </p>
 
 <p>
 <font color="#d6d1ff">
-Continuously learning Data Structures & Algorithms, AI/ML, and modern software architecture.
+Serving as the <b>Technical Head of the IETE Students' Forum</b>, leading technical initiatives, collaborating with student developers, and working on technology-driven projects and activities.
+</font>
+</p>
+
+<p>
+<font color="#d6d1ff">
+Currently exploring <b>AI/ML research in cardiac problem detection and prediction</b>, with a focus on applying machine learning to meaningful healthcare challenges.
+</font>
+</p>
+
+<p>
+<font color="#d6d1ff">
+Also developing my <b>personal portfolio</b> to document my projects, technical journey, research, and experience.
 </font>
 </p>
 
 <p>
 <i><font color="#a78bfa">
-Building reliable software with simplicity, scalability, and automation in mind.
+Building software with engineering discipline, curiosity, and a focus on simplicity, scalability, and real-world impact.
 </font></i>
 </p>
+
 
 ## Tech Arsenal
 
