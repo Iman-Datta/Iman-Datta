@@ -107,18 +107,36 @@ Building software with engineering discipline, curiosity, and a focus on simplic
 
 ---
 
-<div align="center">
-<h2 align="center">GitHub Stats</h2>
-
-
+<!-- ==================== GITHUB STATS ==================== -->
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iman-Datta&theme=tokyonight&hide_border=true&border_radius=12&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="58%" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Iman-Datta&theme=tokyo-night&hide_border=true&radius=10&color=a78bfa&line=a78bfa&point=ffffff" width="96%"/>
-</div>
+  <h2>GitHub Stats</h2>
+
+  <!-- GitHub Streak -->
+  <img
+    src="https://streak-stats.demolab.com?user=Iman-Datta&theme=tokyonight&hide_border=true&border_radius=12&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa"
+    width="58%"
+  />
+
+  <br/><br/>
+
+  <!-- Profile Details / Contribution Graph -->
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iman-Datta&theme=tokyonight"
+    width="96%"
+  />
+
+  <br/><br/>
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Iman-Datta&theme=tokyonight"
+    width="48%"
+  />
+
+ </div>
+
+
 
 ---
 
