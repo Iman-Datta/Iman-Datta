@@ -10,6 +10,8 @@
 
 ![visitors](https://komarev.com/ghpvc/?username=Iman-Datta&label=visitors&color=7c3aed&style=flat-square)
 &nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/%20Portfolio-7C3AED?style=flat-square&logo=firefox&logoColor=white)](https://www.imandatta.com/)
+&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iman-datta-161615307)
 &nbsp;&nbsp;
 [![Instagram](https://img.shields.io/badge/%20Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/i_datta_)
