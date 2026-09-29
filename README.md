@@ -111,18 +111,57 @@ Building software with engineering discipline, curiosity, and a focus on simplic
 
 <!-- ==================== GITHUB STATS ==================== -->
 
-<div align="center">
+## GitHub Stats & Metrics
 
-  <h2>GitHub Stats</h2>
+<!-- Sleek contribution activity graph with theme sensitivity -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://activity-graph.vercel.app/graph?username=Iman-Datta&bg_color=030712&color=94A3B8&line=10B981&point=34D399&area_color=0D9488&area=true&hide_border=true&radius=12">
+    <source media="(prefers-color-scheme: light)" srcset="https://activity-graph.vercel.app/graph?username=Iman-Datta&bg_color=FFFFFF&color=475569&line=0D9488&point=10B981&area_color=E6FFFA&area=true&hide_border=true&radius=12">
+    <img
+      alt="Iman's Contribution Activity Graph"
+      src="https://activity-graph.vercel.app/graph?username=Iman-Datta&bg_color=030712&color=94A3B8&line=10B981&point=34D399&area_color=0D9488&area=true&hide_border=true&radius=12"
+      width="100%"
+    />
+  </picture>
+</p>
 
-  <!-- GitHub Streak -->
-<img
-  src="https://streak-stats.demolab.com/?user=Iman-Datta&theme=tokyonight&hide_border=true&border_radius=12&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa"
-  width="58%"
-/>
+<!-- Side-by-Side Stats Cards with theme sensitivity -->
+<p align="left">
+  <!-- GitHub Stats Card -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/card?username=Iman-Datta&bg=030712&title_color=10B981&text=94A3B8&icon_color=34D399&border_color=0D9488">
+    <source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/card?username=Iman-Datta&bg=FFFFFF&title_color=0D9488&text=475569&icon_color=10B981&border_color=E2E8F0">
+    <img
+      alt="Iman's GitHub Stats"
+      src="https://ghstats.dev/api/card?username=Iman-Datta&bg=030712&title_color=10B981&text=94A3B8&icon_color=34D399&border_color=0D9488"
+      width="48%"
+    />
+  </picture>
 
- </div>
+  <!-- Top Languages Card -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/langs?username=Iman-Datta&layout=grid&bg=030712&title_color=10B981&text=94A3B8&icon_color=34D399&border_color=0D9488">
+    <source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/langs?username=Iman-Datta&layout=grid&bg=FFFFFF&title_color=0D9488&text=475569&icon_color=10B981&border_color=E2E8F0">
+    <img
+      alt="Top Languages"
+      src="https://ghstats.dev/api/langs?username=Iman-Datta&layout=grid&bg=030712&title_color=10B981&text=94A3B8&icon_color=34D399&border_color=0D9488"
+      width="48%"
+    />
+  </picture>
+</p>
 
+<!-- GitHub Streak Stats with theme sensitivity -->
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Iman-Datta&theme=dark&background=030712&stroke=0D9488&ring=10B981&fire=34D399&currStreakNum=10B981&currStreakLabel=94A3B8&sideNums=94A3B8&sideLabels=94A3B8&dates=6B7280">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Iman-Datta&theme=light&background=FFFFFF&stroke=E2E8F0&ring=0D9488&fire=10B981&currStreakNum=0D9488&currStreakLabel=475569&sideNums=475569&sideLabels=475569&dates=94A3B8">
+    <img
+      alt="Iman's GitHub Streak"
+      src="https://streak-stats.demolab.com?user=Iman-Datta&theme=dark&background=030712&stroke=0D9488&ring=10B981&fire=34D399&currStreakNum=10B981&currStreakLabel=94A3B8&sideNums=94A3B8&sideLabels=94A3B8&dates=6B7280"
+    />
+  </picture>
+</p>
 
 
 ---
